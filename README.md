@@ -49,8 +49,8 @@
     <p>Output will list each student's rank, name, and their allocated branch formatted as <code>college-branch</code>.</p>
     <p>For example:</p>
     <pre><code>1 Alice 1-1 
-               2 Bob 2-1 
-               3 Charlie 3-1</code></pre>
+2 Bob 2-1 
+3 Charlie 3-1</code></pre>
 
 <h2>Contributing</h2>
     <p>Contributions are welcome. Please fork the repository and submit pull requests with any enhancements.</p>
