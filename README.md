@@ -55,7 +55,4 @@
 <h2>Contributing</h2>
     <p>Contributions are welcome. Please fork the repository and submit pull requests with any enhancements.</p>
 
-<h2>License</h2>
-    <p>[Insert License Here] - Please specify the license under which the project is released, ensuring compliance with open-source guidelines.</p>
-<hr>
-<p>This README is designed to help users understand, set up, and run the College Seat Allocation System in C.</p>
+
